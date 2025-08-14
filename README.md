@@ -36,9 +36,12 @@ Opened the dashboard through my ip:
 
 <img width="1891" height="997" alt="Screenshot 2025-08-14 123433" src="https://github.com/user-attachments/assets/74d2d97b-1f6a-4a6b-8e4b-8964396355dd" />
 
+
 <img width="1912" height="652" alt="Screenshot 2025-08-13 200925" src="https://github.com/user-attachments/assets/94691524-9788-4c0d-94d1-00848473f9ad" />
 
+
 <img width="1541" height="1002" alt="Screenshot 2025-08-14 124726" src="https://github.com/user-attachments/assets/c590ac60-47c9-46be-8d3e-d55071c51c3c" />
+
 
 
 🧭 What i Explored on the Dashboard
